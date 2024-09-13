@@ -4,7 +4,9 @@
     <option name="actions">
       <set>
         <option value="activate" />
+        <option value="organizeImports" />
         <option value="reformat" />
+        <option value="explicitTypeCanBeDiamond" />
         <option value="unnecessarySemicolon" />
         <option value="singleStatementInBlock" />
       </set>
